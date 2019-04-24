@@ -1,0 +1,10 @@
+
+Pour acceder au jeu :
+
+1) vous devez entre dans le fichier source , faites "cd src"
+
+2) lance le Makefile avec la commande "make"
+
+3) l'executable Taquin qui a eté créé
+
+4) faite "./Taquin" pour lancer le jeu
